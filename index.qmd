@@ -14,6 +14,7 @@ When you click the **Render** button a document will be generated that includes 
 
 ```{r}
 1 + 1
+# Bla bla
 ```
 
 You can add options to executable code like this
